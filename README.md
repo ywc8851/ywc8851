@@ -1,4 +1,4 @@
-<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&section=header&fontSize=90)
 
 
@@ -9,5 +9,5 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ywc8851)](https://github.com/anuraghazra/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&section=footer)
   
-</div>
+
 
