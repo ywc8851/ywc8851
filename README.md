@@ -4,6 +4,10 @@ console.log(I am a good developer.)
 ```
 ___
 
+> 손으로 10초면 할 수 있는 일을
+컴퓨터로 하루 종일 프로그래밍해서 자동으로 수행할 때,
+나는 더할 나위 없이 큰 행복을 느낀다.
+
 <div align=center>
   
 ✔Tech Stacks
