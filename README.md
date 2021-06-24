@@ -18,7 +18,7 @@ Programming Language :  ![](https://img.shields.io/badge/Html-E34F26?style=flat-
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
 
 Database : 
 ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white)
