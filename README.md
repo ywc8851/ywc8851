@@ -1,6 +1,6 @@
 
 ```javascript
-console.log(I am a good developer.)
+console.log('I am a good developer.');
 ```
 ___
 <div align=center>
