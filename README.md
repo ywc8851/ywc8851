@@ -42,7 +42,7 @@ Deployment :
 ___
 
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fywc8851&count_bg=%2365A5C8&title_bg=%23DDE1A0&icon=&icon_color=%23C47272&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 [![github stats](https://github-readme-stats.vercel.app/api?username=ywc8851&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywc8851&layout=compact&theme=dracula)](https://github.com/metleeha)
 ___
