@@ -65,9 +65,10 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywc8851&langs_count=8)](https://github.com/ywc8851/github-readme-stats)
 
 ___
-Algorithm level(Baekjoon)
+  <b>Algorithm level(Baekjoon)</b>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywc8851)](https://solved.ac/ywc8851/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywc95518)](https://solved.ac/ywc95518/)
+
   
 </div>
 <!--![footer](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&section=footer) ![header](https://capsule-render.vercel.app/apitype=slice&color=A3DCBE&section=header&fontSize=90&text=Yongwoo's%20Profile&fontColor=FFA883) -->
